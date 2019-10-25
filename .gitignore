@@ -4,6 +4,7 @@ ansible2.8.6/
 .bash_logout
 .bashrc
 .cache/
+.gitconfig
 .pip/
 .profile
 .ssh/
