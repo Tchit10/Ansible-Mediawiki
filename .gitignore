@@ -1,0 +1,9 @@
+ansible2.8.6/
+.ansible_galaxy
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.pip/
+.profile
+.ssh/
